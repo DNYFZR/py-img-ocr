@@ -1,3 +1,6 @@
-# Optical Character Recognition (OCR) of Engineering Drawings
+<h1 align="center">Optical Character Recognition (OCR)</h1>
 
-Testing Tesseract OCR tooling with the pytesseract wrapper to analyse technical drawings
+### Engineering Drawing Data Extraction
+
+Testing [Tesseract OCR tooling](https://tesseract-ocr.github.io/tessdoc/Installation.html) (C++) on images of engineering drawings, using the [pytesseract wrapper library](https://github.com/h/pytesseract).
+
